@@ -1,0 +1,2 @@
+# Nenhuma biblioteca externa é estritamente necessária para o núcleo matemático (math)
+# Mas incluiremos o 'math' que já faz parte da biblioteca padrão.
